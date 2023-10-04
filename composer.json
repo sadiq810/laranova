@@ -1,5 +1,5 @@
 {
-  "name": "laravel/nova",
+  "name": "laranova",
   "description": "A wonderful administration interface for Laravel.",
   "keywords": [
     "laravel",
@@ -8,8 +8,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Taylor Otwell",
-      "email": "taylor@laravel.com"
+      "name": "Taywell",
+      "email": "taylor@laranova.com"
     }
   ],
   "require": {
